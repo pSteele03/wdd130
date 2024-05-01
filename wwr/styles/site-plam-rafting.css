@@ -136,12 +136,12 @@ nav a:hover {
 }
 .sm-home {
   grid-area: home;
-  background-color: #ccc;
+  background-color: #ede04e;
   line-height: 3em;
 }
 .sm-page2 {
   grid-area: page2;
-  background-color: #ccc;
+  background-color: #963939;
   line-height: 3em;
 }
 .sm-page3 {
