@@ -19,8 +19,6 @@
     display: inline-block;
     justify-content: center;
     align-items: center;
-
-    background-color: #fff; /* Add this to give a background to circles */
 }
 .circle img {
     width: 100%;
