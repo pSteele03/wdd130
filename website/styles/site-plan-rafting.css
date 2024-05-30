@@ -38,7 +38,9 @@ Fonts are separated by a & */
 
 
 /*  Look around below...but DON'T CHANGE ANYTHING! */
-
+.logo{
+  text-align: left;
+}
 body {
   background-color: #fcfbfb;
     font-family: Raleway, Arial, sans-serif;
@@ -46,9 +48,14 @@ body {
     margin: 0;
     padding: 0;
 }
-img {
+.card-img {
   display: block;
-  margin: 0 auto;
+  margin: 0;
+  max-width: 300px;
+}
+.img {
+  display: block;
+  margin: 0;
   max-width: 300px;
 }
 h1, h2, h3, h4, h5, h6 {
@@ -201,6 +208,8 @@ main section img {
   padding-top: 25px;
   padding-bottom: 25px;
 }
-.logo{
-  text-align: left;
+.hero-img {
+  text-align: center;
+  margin: 0;
 }
+
